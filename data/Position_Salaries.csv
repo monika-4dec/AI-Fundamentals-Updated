@@ -1,0 +1,11 @@
+﻿Position,Level(X-variable),Salary(Y-Variable)
+Bussiness Analyst,1,4500
+Junior Consultant,2,50000
+Senior Consultant,3,60000
+Manager,4,80000
+Country Manager,5,110000
+Region Manager,6,150000
+Partner,7,200000
+Senior Partnert,8,300000
+C-Level,9,500000
+CEO,10,1000000
